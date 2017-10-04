@@ -1,0 +1,46 @@
+html {
+  background-color: white;
+}
+#main {
+  font-family: Roboto, sans-serif;
+  text-align: center;
+  background-color: lightyellow;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19);
+  border-radius: 1%;
+}
+h1 {
+  padding-top: 10px;
+}
+#subtitle {
+  padding-bottom: 10px;
+  font-size: 14pt;
+}
+#image {
+  display: block;
+  max-width: 500px;
+  height: auto;
+  margin: auto;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19);
+}
+#img-div {
+  background-color: white;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19);
+}
+ul {
+  max-width: 550px;
+  margin: 0 auto;
+  padding-bottom: 20px;
+}
+li {
+  text-align: left;
+  display: list-item;
+  margin: 10px;
+}
+#wiki-link {
+  font-size: 14pt;
+  font-weight: bold;
+}
